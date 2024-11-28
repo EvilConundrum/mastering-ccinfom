@@ -74,6 +74,8 @@ mastering-ccinfom/
 ## Further Reading
 
 - [Book] [John L. Viescas - SQL Queries for Mere Mortals.pdf](https://github.com/user-attachments/files/17941816/John.L.Viescas.-.SQL.Queries.for.Mere.Mortals.pdf)
+- [Video] [Decomplexify - Learn Database Normalization](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=961s&pp=ygUIZGF0YWJhc2U%3D)
+- [Video] [FreeCodeCamp.org - Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=15226s&pp=ygUIZGF0YWJhc2U%3D)
 - [Tutorial] [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [Tutorial] [W3Schools](https://www.w3schools.com/mysql/default.asp)
 - [Interactive] [LeetCode](https://leetcode.com/problemset/database)
